@@ -1,6 +1,11 @@
+# Live Demo 
+https://jocular-gingersnap-3bea56.netlify.app/
+## ABOUT
+This app includes all basic CRUD operations performed using firebase. This app also features use of react router for navigation among different pages to make Multi Page Web App. It also features a search bar where you can search for different recipes along with Black and White Theme toggler developed using contextAPI
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
